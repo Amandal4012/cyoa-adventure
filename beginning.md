@@ -1,7 +1,9 @@
-Welcome to the Game of Life !!!!!!!!
+### **Welcome to the Game of Life !!!!!!!!**
 
-Now, what do you want?
+#### **You just turned 18.**
 
-[Go to college](cyoa-adventure/degree.md)
+#### Now, what do you want?
 
-[Get a job](cyoa-adventure/mcdonalds.md)
+[_Go to college_](cyoa-adventure/degree.md)
+
+[_Get a job_](cyoa-adventure/mcdonalds.md)
