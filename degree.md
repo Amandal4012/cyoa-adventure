@@ -2,7 +2,7 @@
 
 #### You went to college and got a degree! What do you want to be?
 
-[Doctor](doctor.md)
+[_Doctor_](doctor.md)
 
-[Teacher](teacher.md)
+[_Teacher_](teacher.md)
 
