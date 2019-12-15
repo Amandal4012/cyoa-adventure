@@ -2,6 +2,6 @@
 
 ### What do you do?
 
-[Be mean to the kids]()
+[Be mean to the kids](kids-hate-u.md)
 
-[Be nice to the kids]()
+[Be nice to the kids](kids-love-u.md)
