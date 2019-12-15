@@ -1,8 +1,8 @@
-### **Welcome to the Game of Life !!!!!!!!**
+## **Welcome to the Game of Life !!!!!!!!**
 
-#### **You just turned 18.**
+### **You just turned 18.**
 
-#### Now, what do you want?
+### Now, what do you want?
 
 [_Go to college_](cyoa-adventure/degree.md)
 
