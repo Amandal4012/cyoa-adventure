@@ -2,6 +2,6 @@
 
 ### This was the only place that would hire you. What do you want to do?
 
-[Flip Burgers]()
+[Flip Burgers](burgers.md)
 
-[Be a cashier]()
+[Be a cashier](cashier.md)
