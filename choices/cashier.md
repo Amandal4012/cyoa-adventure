@@ -2,4 +2,4 @@
 
 ### What will happen to you?
 
-[Find out what happens to you]()
+[Find out what happens to you](die.md)

@@ -2,4 +2,4 @@
 
 ### Your manager sends you home
 
-[Go home]()
+[Go home](go-home.md)
