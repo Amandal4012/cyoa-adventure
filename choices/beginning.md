@@ -4,6 +4,6 @@
 
 ### Now, what do you want?
 
-[_Go to college_](choices/degree.md)
+[_Go to college_](degree.md)
 
-[_Get a job_](choices/mcdonalds.md)
+[_Get a job_](mcdonalds.md)
