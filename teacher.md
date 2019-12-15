@@ -1,4 +1,4 @@
-### It's your first day of work as a teacher!
+## It's your first day of work as a teacher!
 
 ### What do you do?
 
