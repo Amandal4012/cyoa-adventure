@@ -2,6 +2,6 @@
 
 ## What do you do?
 
-[_Forget to wear a mask_](get-sick.md)
+[_Forget to wear a mask_]()
 
-[_Be nice to patients_](make-friends.md) 
+[_Be nice to patients_]() 
