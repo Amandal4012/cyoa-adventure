@@ -1,4 +1,4 @@
-## Uh Oh! You accidently spilled a hot drink on yourself!
+## Uh Oh! You accidentally spilled a hot drink on yourself!
 
 ### What will happen to you?
 
