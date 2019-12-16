@@ -1,3 +1,5 @@
+![Start](GameOfLife.jpg)
+###### [Source](https://www.logolynx.com/topic/game+of+life)
 ## **Welcome to the Game of Life !!!!!!!!**
 
 ### **You just turned 18.**
