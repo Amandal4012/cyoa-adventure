@@ -6,6 +6,6 @@
 
 ###### [Source](https://www.countryliving.com/life/a27155554/mcdonalds-easter-hours/)
 
-[Flip Burgers](burgers.md)
+[_Flip Burgers_](burgers.md)
 
-[Be a cashier](cashier.md)
+[_Be a cashier_](cashier.md)

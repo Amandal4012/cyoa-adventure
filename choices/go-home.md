@@ -2,6 +2,6 @@
 
 ### What do you want do?
 
-[Friend invites you out](go-out.md)
+[_Friend invites you out_](go-out.md)
 
-[Watch TV](watch-tv.md)
+[_Watch TV_](watch-tv.md)

@@ -2,7 +2,7 @@
 ###### [Source](https://www.logolynx.com/topic/game+of+life)
 ## **Welcome to the Game of Life !!!!!!!!**
 
-### **You just turned 18.**
+### **You just turned 18**
 
 ### Now, what do you want?
 

@@ -5,6 +5,6 @@
 
 ### What do you do?
 
-[Be mean to the kids](kids-hate-u.md)
+[_Be mean to the kids_](kids-hate-u.md)
 
-[Be nice to the kids](kids-love-u.md)
+[_Be nice to the kids_](kids-love-u.md)
